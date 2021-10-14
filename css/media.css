@@ -1,0 +1,745 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 374.98px) {
+    /* header start */
+    .menu ul li {
+        text-align: center;
+    }
+    .c_btn {
+        padding: 4px 95px;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner {
+        padding-bottom: 30px;
+    }
+    .banner_txt {
+        margin-top: 30px;
+    }
+    .banner_txt a {
+        margin-left: 12px;
+    }
+    .banner_txt h1 {
+        font-size: 25px;
+    }
+    .banner_txt p {
+        font-size: 13px;
+        padding-right: 15px;
+    }
+    .c_btn {
+        padding: 4px 20px;
+    }
+
+    /* banner end */
+
+    /* client start */
+    .client {
+        padding: 50px 0;
+    }
+    /* client end */
+
+    /* feature start */
+    .ftxt_wrapper {
+        margin-top: 26px;
+        text-align: center;
+    }
+    .feature_head {
+        margin-bottom: 70px;
+    }
+    .fi_txt p {
+        padding: 0px;
+    }
+    .feature_head h1 {
+        font-size: 30px;
+        color: #242f51;
+    }
+    /* feature end */
+
+    /* smart start */
+    .smart {
+        padding-top: 45px;
+    }
+    .smart_h1 h1 {
+        font-size: 22px;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .smart_line {
+        display: none;
+    }
+    .smart_p p {
+        margin-top: 10px;
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .smart_single {
+        padding: 14px 0;
+        text-align: center;
+    }
+    .smart_single p {
+        padding-right: 0px;
+    }
+    /* smart end */
+
+    /* code start */
+    .code_image {
+        text-align: center;
+    }
+    .code_txt {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .code_txt h1 {
+        padding-right: 0;
+        font-size: 21px;
+    }
+    .code_txt p {
+        padding: 0px;
+    }
+    /* code end */
+
+    /* choose start */
+    .common_middle {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .common_middle h1 {
+        padding: 0px;
+        font-size: 23px;
+    }
+    .cmd_single p {
+        padding: 0px;
+        margin-bottom: 50px;
+    }
+    /* choose end */
+    
+     /* ultimate start */
+     .ultimate {
+        padding: 10px 0;
+    }
+     .common_left h1 {
+        padding-right: 135px;
+    }
+    .common_left p {
+        padding-right: 135px;
+    }
+    .cleft_single {
+        text-align: center;
+        margin-bottom: 35px;
+    }
+    .common_left {
+        text-align: center;
+    }
+    .common_left h1 {
+        padding-right: 0px;
+        font-size: 26px;
+    }
+    .common_left p {
+        padding-right: 0px;
+    }
+    /* ultimate end */
+
+    /* pricing start */
+    .pricing_single {
+        margin-bottom: 30px;
+    }
+    /* pricing end */
+
+    /* testimonial start */
+    .testimonial {
+        padding: 25px 0;
+    }
+    .test_wrapper {
+        text-align: center;
+    }
+    .test_txt h1 {
+        padding-right: 0;
+        padding: 0px;
+        font-size: 25px;
+    }
+    .test_txt p {
+        padding-right: 0;
+        padding: 0px;
+    }
+    .slider_wrapper {
+        margin-top: 40px;
+    }
+
+    .ccp {      
+        left: 0px;
+    }
+    .ccp, .ccn{
+        top: 255px;
+    }
+    /* testimonial end */
+
+    /* faq start */
+    .faq_single h2 button {
+        font-size: 15px;
+    }
+    /* faq send */
+
+    /* download start */
+    .download {
+        padding: 65px 0;
+    }
+    .download_wrapper {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .download_wrapper h1 {
+        font-size: 23px;
+    }
+    .download_wrapper p {
+        margin: 22px 0;
+    }
+    .download_btn {
+        padding: 8px 11px;
+    }
+    /* download end */
+
+    /* footer start */
+    footer {
+        padding: 40px 0;
+    }
+    .footer_menu ul {
+        margin: 30px 0;
+    }
+    .footer_menu ul li {
+        margin-bottom: 17px;
+    }
+    .footer_menu ul li a {
+        margin: 0 8px;
+    }
+    .footer_botttom p {
+        margin-top: 30px;
+        word-spacing: 0px;
+    }
+    
+    
+    /* footer end */
+}
+
+
+
+@media (min-width: 375px) and (max-width: 575.98px) {
+    h1{
+        color: rgb(22, 247, 255);
+    }
+
+}
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    
+    /* header end */
+
+    /* banner start */
+    .banner {
+        padding-bottom: 90px;
+    }
+    .banner_txt {
+        margin-top: 70px;
+    }
+    .banner_txt a {
+        margin-left: 12px;
+    }
+    .banner_txt h1 {
+        font-size: 35px;
+    }
+    .banner_txt p {
+        font-size: 14px;
+        padding-right: 50px;
+    }
+    .c_btn {
+        padding: 4px 20px;
+    }
+
+    /* banner end */
+
+    /* client start */
+    .client {
+        padding: 50px 0;
+    }
+    /* client end */
+
+    /* feature start */
+    .ftxt_wrapper {
+        margin-top: 26px;
+        text-align: center;
+    }
+    .feature_head {
+        margin-bottom: 70px;
+    }
+    .fi_txt p {
+        padding: 0 90px;
+    }
+    /* feature end */
+
+    /* smart start */
+    .smart {
+        padding-top: 60px;
+    }
+    .smart_h1 h1 {
+        font-size: 24px;
+        padding-right: 0px;
+    }
+    .smart_line {
+        height: 110px;
+    }
+    .smart_p p {
+        padding-right: 0px;
+        margin-top: 0px;
+        font-size: 14px;
+    }
+
+    .smart_single p {
+        padding-right: 0px;
+    }
+    .smart_single {
+        padding: 30px 0;
+    }
+    /* smart end */
+
+    /* code start */
+    .code_image {
+        text-align: center;
+    }
+    .code_txt {
+        margin-top: 70px;
+        text-align: center;
+    }
+    .code_txt h1 {
+        padding-right: 0;
+    }
+    .code_txt p {
+        padding: 0 65px;
+    }
+    /* code end */
+
+    /* choose start */
+    .common_middle {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .common_middle h1 {
+        padding: 0px;
+    }
+    .cmd_single p {
+        padding: 0px;
+        margin-bottom: 50px;
+    }
+    /* choose end */
+
+    /* ultimate start */
+    .common_left h1 {
+        padding-right: 135px;
+    }
+    .common_left p {
+        padding-right: 135px;
+    }
+    .cleft_single {
+        text-align: center;
+    }
+    .common_left {
+        text-align: center;
+    }
+    .common_left h1 {
+        padding-right: 0px;
+    }
+    .common_left p {
+        padding-right: 0px;
+    }
+    /* ultimate end */
+
+    /* pricing start */
+    .pricing_single {
+        margin-bottom: 50px;
+    }
+    /* pricing end */
+
+    /* testimonial start */
+    .test_wrapper {
+        text-align: center;
+    }
+    .test_txt h1 {
+        padding-right: 0;
+        padding: 0 50px;
+    }
+    .test_txt p {
+        padding-right: 0;
+        padding: 0 35px;
+    }
+    .slider_wrapper {
+        margin-top: 40px;
+    }
+    .ccp {
+        left: 0px;
+    }
+    /* testimonial end */
+
+    /* faq start */
+    .faq_single h2 button {
+        font-size: 16px;
+    }
+    /* faq send */
+
+    /* download start */
+    .download_wrapper {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .download_wrapper h1 {
+        font-size: 40px;
+    }
+    /* download end */
+
+    /* footer start */
+    footer {
+        padding: 70px 0;
+    }
+    .footer_menu ul li a {
+        margin: 0 8px;
+    }
+    .footer_botttom p {
+        margin-top: 50px;
+        word-spacing: 0px;
+    }
+    
+    
+    /* footer end */
+
+
+}
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* banner start */
+    .banner {
+        padding-bottom: 140px;
+    }
+    .banner_txt {
+        margin-top: 70px;
+    }
+    .banner_txt a {
+        margin-left: 12px;
+    }
+    .banner_txt h1 {
+        font-size: 40px;
+    }
+    .banner_txt p {
+        font-size: 15px;
+        padding-right: 30px;
+    }
+
+    /* banner end */
+
+    /* feature start */
+    .ftxt_wrapper {
+        margin-top: 20px;
+    }
+    .fi_txt {
+        margin-bottom: 25px;
+    }
+    .feature_head {
+        margin-bottom: 30px;
+    }
+    .feature_head h1 {
+        font-size: 25px;
+    }
+    .feature_head p {
+        font-size: 14px;
+    }
+    .feature_icon i {
+        font-size: 18px;
+    }
+    .fi_txt h4 {
+        font-size: 18px;
+    }
+    .fi_txt p {
+        font-size: 14px;
+    }
+    /* feature end */
+
+    /* smart start */
+    .smart {
+        padding-top: 60px;
+    }
+    .smart_h1 h1 {
+        font-size: 30px;
+        padding-right: 0px;
+    }
+    .smart_line {
+        height: 110px;
+    }
+    .smart_p p {
+        padding-right: 0px;
+        margin-top: 0px;
+    }
+
+    .smart_single p {
+        padding-right: 0px;
+    }
+    /* smart end */
+
+    /* code start */
+    .code_image {
+        text-align: center;
+    }
+    .code_txt {
+        margin-top: 70px;
+        text-align: center;
+    }
+    .code_txt h1 {
+        padding-right: 0;
+    }
+    .code_txt p {
+        padding: 0 65px;
+    }
+    /* code end */
+
+    /* choose start */
+    .common_middle {
+        padding-top: 80px;
+        padding-bottom: 30px;
+    }
+    .common_middle h1 {
+        padding: 0px;
+    }
+    .cmd_single p {
+        padding: 0 32px;
+        margin-bottom: 50px;
+    }
+    /* choose end */
+
+    /* ultimate start */
+    .common_left h1 {
+        padding-right: 135px;
+    }
+    .common_left p {
+        padding-right: 135px;
+    }
+    .cleft_single {
+        text-align: center;
+    }
+    .common_left {
+        text-align: center;
+    }
+    .common_left h1 {
+        padding-right: 0px;
+    }
+    .common_left p {
+        padding-right: 0px;
+    }
+    /* ultimate end */
+
+    /* pricing start */
+    .pricing_single {
+        margin-bottom: 50px;
+    }
+    /* pricing end */
+
+    /* testimonial start */
+    .test_wrapper {
+        text-align: center;
+    }
+    .test_txt h1 {
+        padding-right: 0;
+        padding: 0 75px;
+    }
+    .test_txt p {
+        padding-right: 0;
+        padding: 0 90px;
+    }
+    .slider_wrapper {
+        margin-top: 40px;
+    }
+
+    .ccp {
+        left: 0px;
+    }
+    /* testimonial end */
+
+    /* download start */
+    .download_wrapper h1 {
+        font-size: 28px;
+    }
+    .download_wrapper p {
+        margin: 20px 0;
+    }
+    .download_wrapper {
+        margin-top: 0px;
+    }
+    .download_btn {
+        padding: 6px 12px;
+    }
+    /* download end */
+
+    /* footer start */
+    footer {
+        padding: 70px 0;
+    }
+    /* footer end */
+
+}
+
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner start */
+    .banner {
+        padding-bottom: 140px;
+    }
+    .banner_txt {
+        margin-top: 140px;
+    }
+    .banner_txt h1 {
+        font-size: 40px;
+    }
+    .banner_txt p {
+        font-size: 16px;
+    }
+
+    /* banner end */
+
+    /* feature start */
+    .ftxt_wrapper {
+        margin-top: 32px;
+    }
+    .feature_head {
+        margin-bottom: 40px;
+    }
+    .fi_txt {
+        margin-bottom: 28px;
+    }
+    /* feature end */
+
+    /* smart start */
+    .smart_h1 h1 {
+        padding-right: 40px;
+    }
+    .smart_p p {
+        padding-right: 60px;
+    }
+
+    .smart_single p {
+        padding-right: 50px;
+    }
+    /* smart end */
+
+    /* code start */
+    .code_txt {
+        margin-top: 90px;
+    }
+    .code_txt h1 {
+        padding-right: 60px;
+    }
+    .code_txt p {
+        padding-right: 105px;
+    }
+    /* code end */
+
+    /* choose start */
+    .common_middle h1 {
+        padding: 0px;
+    }
+    .cmd_single p {
+        padding: 0 32px;
+        margin-bottom: 50px;
+    }
+    /* choose end */
+
+    /* ultimate start */
+    .common_left h1 {
+        padding-right: 135px;
+    }
+    .common_left p {
+        padding-right: 135px;
+    }
+    /* ultimate end */
+
+    /* pricing start */
+    .pricing_head {
+        padding: 5px 5px;
+    }
+    .pricing_head strong {
+        font-size: 15px;
+    }
+    .pricing_head strong span {
+        font-size: 35px;
+    }
+    .pricing_head h4 {
+        font-size: 18px;
+    }
+    .pricing_body ul li {
+        line-height: 2.7rem;
+        font-size: 14px;
+    }
+    .price_btn {
+        padding: 4px 14px;
+        font-size: 14px;
+    }
+    /* pricing end */
+
+    /* testimonial start */
+    .test_txt h1 {
+        font-size: 26px;
+        padding-right: 20px;
+    }
+    .test_txt p {
+        padding-right: 10px;
+    }
+    .sc_txt p {
+        font-size: 14px;
+    }
+
+    .ccp {
+        left: 260px;
+    }
+    /* testimonial end */
+
+    /* download start */
+    .download_wrapper h1 {
+        font-size: 36px;
+    }
+    .download_wrapper {
+        margin-top: 0px;
+    }
+    /* download end */
+
+    /* footer start */
+    footer {
+        padding: 90px 0;
+    }
+    .footer_menu ul li a {
+        
+        margin: 0 9px;
+    }
+    /* footer end */
+
+}
+
+
+ /*Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+
+}
+
+
+
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    h1{
+        color: red;
+    }
+
+
+}
